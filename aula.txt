@@ -2,4 +2,6 @@ Aula 1
 > Revisão de JavaScript
 
 Aula 2
-> 
+> Aprendemos a criar uma classe e instânciar um objeto
+
+Aula 3
